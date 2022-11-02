@@ -186,8 +186,6 @@ func ej9() -> [String:[Int : String]]{
     let equipos = ["Real madrid" : realMadrid,
                    "Barcelona" : barcelona]
     
-    print(equipos)
-    
     return equipos
     
 }
