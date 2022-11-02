@@ -67,7 +67,7 @@ func ej2(){
 func ej3(){
 //    Crea uun array con mil numeros 5
     let cinco = [Int](repeating: 5, count: 1000)
-    print(cinco.count)
+    print("Tamaño del Array \(cinco.count)")
 }
 
 func ej4(){
