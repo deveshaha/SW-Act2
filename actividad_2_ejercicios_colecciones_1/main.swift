@@ -193,6 +193,7 @@ func ej9() -> [String:[Int : String]]{
 }
 
 func ej10(){
+//    Queremos imprimir todos los jugadores y sus dorsales de todos los equipos del ejercicio anterior
 print(ej9())
 }
 
